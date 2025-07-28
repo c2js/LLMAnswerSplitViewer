@@ -2,6 +2,18 @@
 
 ![LLMAnswerSplitViewer Screenshot](assets/llmanswersplitviewer-screenshot-01.png)
 
+<h1 align="center">
+  <a href="https://c2js.github.io/LLMAnswerSplitViewer" target="_blank">
+     <strong> 👉 Launch App Here 👈</strong>
+  </a>
+</h1>
+
+<p align="center">
+  https://c2js.github.io/LLMAnswerSplitViewer/
+</p>
+
+---
+
 ## 😤 Tired of Excel Frustrations? We've Got You Covered!
 
 **Stop wrestling with EXCEL columns!** 🤼‍♀️ No more endless resizing, font size hunting, or wrap/unwrap toggling just to read your LLM evaluation data. 
@@ -44,7 +56,12 @@ A **lightning-fast**, **zero-installation** web tool that transforms your LLM ev
 
 ## 🚀 Getting Started (It's That Easy!)
 
-### 🌐 Option 1: Download & Run Locally (Recommended)
+### 🌐 Option 1: Use this link
+[https://c2js.github.io/LLMAnswerSplitViewer/](https://c2js.github.io/LLMAnswerSplitViewer/)
+This site runs entirely in your browser — no data is sent to any server.
+
+
+### 🌐 Option 2: Download & Run Locally (Recommended)
 1. 🌐 Visit [LLMAnswerSplitViewer](https://github.com/c2js/LLMAnswerSplitViewer) 
 2. Look for the **"app"** folder 📁
 3. Download all files from the app folder and put them in the same folder on your computer 💾 (index.html & main.<"randonnumber">.js)
@@ -52,7 +69,7 @@ A **lightning-fast**, **zero-installation** web tool that transforms your LLM ev
 5. Drag your Excel file 📎
 6. Start to compare! 🎉
 
-### 💻 Option 2: Developer Favour
+### 💻 Option 3: Developer Favour
 
 ```bash
 # Clone the repository
