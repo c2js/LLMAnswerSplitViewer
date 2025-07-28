@@ -63,7 +63,7 @@ This site runs entirely in your browser — no data is sent to any server.
 
 ### 🌐 Option 2: Download & Run Locally (Recommended)
 1. 🌐 Visit [LLMAnswerSplitViewer](https://github.com/c2js/LLMAnswerSplitViewer) 
-2. Look for the **"app"** folder 📁
+2. Look for the **"docs"** folder 📁
 3. Download all files from the app folder and put them in the same folder on your computer 💾 (index.html & main.<"randonnumber">.js)
 4. Open the `index.html` file to start using the tool 🎉
 5. Drag your Excel file 📎
